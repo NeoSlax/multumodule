@@ -1,0 +1,5 @@
+
+rootProject.name = 'multumodule'
+include 'javapart'
+include 'kotlinpart'
+
